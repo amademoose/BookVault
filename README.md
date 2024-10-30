@@ -1,8 +1,12 @@
+<img src="https://github.com/amademoose/BookVault/blob/main/demo/logo2.png?raw=true" height="100">
+
 # BookVault: Sustainable Book and Story Exchange Platform
 
 BookVault is a community-driven platform that fosters the exchange of old books and stories using an in-house currency, BCoin. Users can post unwanted books and stories for sale on the marketplace, where each successful transaction rewards BCoin to the seller. This currency can then be used to obtain books or stories from other users, creating a sustainable exchange cycle that reduces waste and makes reading, knowledge, and entertainment accessible to all.
 
 ### [DEMO WEBSITE](https://book-vault-delta.vercel.app/)
+
+![DEMO1](https://github.com/amademoose/BookVault/blob/main/demo/demo1.png?raw=true)
 
 ## Key Features:
 
