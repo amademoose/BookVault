@@ -18,7 +18,7 @@ import { createTopupOrder } from '@/app/(routes)/order/_action/order-action';
 
 const amountOptions = [50000, 100000, 200000, 300000, 500000, 1000000];
 const QR_LINK =
-  'https://img.vietqr.io/image/vietinbank-100003535252-compact.jpg';
+  '1731075572121.png';
 
 function makeid(length: number) {
   let result = '';
@@ -167,7 +167,7 @@ const TopupForm = ({
         )}
         <div className='text-sm text-center text-gray-500 font-light'>
           Nếu chưa nhận được BCoin vui lòng liên hệ tới số Zalo:{' '}
-          <span className='font-semibold'>0123456789</span>
+          <span className='font-semibold'>0967878400</span>
         </div>
       </DialogContent>
     </Dialog>
